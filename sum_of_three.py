@@ -18,12 +18,6 @@ print(ZeroSum(array).Sum_three())
 
 
 
-# array = ZeroSum([-25, -10, -7, -3, 2, 4, 8, 10])
-# print (array.Sum_three())
-
-
-
-
 
 
 
