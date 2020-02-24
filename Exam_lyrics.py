@@ -1,0 +1,5 @@
+file1 = open("Lyrics.txt", "r")
+n = int(input("which line do you want to read: "))
+f = file1.readlines(n)
+print(f)
+file1.close()
